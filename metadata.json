@@ -1,0 +1,6 @@
+{
+  "name": "观择 MES · 数字工厂",
+  "description": "面向高端智能制造的数字化工厂生产执行系统，提供生产运营工作台、工单全生命周期管控、工序级精准报工、设备物联网监控与智能审批流转。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
